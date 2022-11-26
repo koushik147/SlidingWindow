@@ -1,3 +1,5 @@
+#TimeComplexity: O(len(s)*len(p))
+#SpaceComplexity: O(len(s)*len(p))
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
 
